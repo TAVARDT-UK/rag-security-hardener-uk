@@ -12,9 +12,6 @@ Developed and maintained by the Artificial Intelligence Security Engineering Div
 
 ***
 
-
-***
-
 ## Online Demonstration & Defensive Architecture Hub
 
 You can inspect the technical defensive specifications, architectural diagnostic tests, and mitigation blueprints directly in your browser:
@@ -54,12 +51,11 @@ python3 rag_security_auditor.py -json
 
 ***
 
-## Governance and Sovereignty
+## Useful Links
 
-* **Sovereign Unit**: [TAVARDT United Kingdom](https://ag.tavardt.com/uk/) (`TAVARDT-UK`)
-* **Core Standards**: [00-core Governance](https://github.com/TAVARDT-UK/00-core)
-* **Diagnostic Portal**: [TAVARDT UK Diagnostic Suite](https://tools.tavardt.com/uk/)
-* **Enterprise Security**: [TAVARDT UK Cybersecurity](https://ag.tavardt.com/uk/cybersecurity/)
+* **Corporate Portal:** https://ag.tavardt.com/uk/
+* **Diagnostic Suite:** https://tools.tavardt.com/uk/
+* **Technical Contact:** https://ag.tavardt.com/uk/contact/
 
 ***
 
