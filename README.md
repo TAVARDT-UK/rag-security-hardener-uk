@@ -1,22 +1,21 @@
 # RAG Security & Context Hardening Hub
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-5b3cf5.svg)](https://tavardt-uk.github.io/rag-security-hardener-uk/)
-[![Jurisdiction](https://img.shields.io/badge/Jurisdiction-UK-00C853.svg)](https://ag.tavardt.com/uk/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![OWASP LLM](https://img.shields.io/badge/OWASP-LLM%20Top%2010-red.svg)](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
 [![MITRE ATLAS](https://img.shields.io/badge/MITRE-ATLAS%20Matrix-orange.svg)](https://atlas.mitre.org/)
 
 **Corporate Defensive Architecture Hub and Hardening Blueprints for RAG (Retrieval-Augmented Generation) Pipelines**
 
-Developed and maintained by the Artificial Intelligence Security Engineering Division of **[TAVARDT United Kingdom](https://ag.tavardt.com/uk/)**.
+Developed and maintained by the Artificial Intelligence Security Engineering Division of **TAVARDT United Kingdom**.
 
 ***
 
 ## Official Portals
 
-* **Institutional Portal**: [https://ag.tavardt.com/uk/](https://ag.tavardt.com/uk/)
-* **Tools Center**: [https://tools.tavardt.com/uk/](https://tools.tavardt.com/uk/)
-* **Contact and Technical Support**: [https://ag.tavardt.com/uk/contact/](https://ag.tavardt.com/uk/contact/)
+* **Institutional Portal**: [Portal Institucional](https://ag.tavardt.com/uk/)
+* **Tools Center**: [Central de Ferramentas](https://tools.tavardt.com/uk/)
+* **Contact and Technical Support**: [Canal de Contato](https://ag.tavardt.com/uk/contact/)
 
 ***
 
@@ -25,7 +24,7 @@ Developed and maintained by the Artificial Intelligence Security Engineering Div
 You can inspect the technical defensive specifications, architectural diagnostic tests, and mitigation blueprints directly in your browser:
 
 * **[Official Web Application on GitHub Pages](https://tavardt-uk.github.io/rag-security-hardener-uk/)**
-* **[TAVARDT Tools Center](https://tools.tavardt.com/uk/)**
+* **TAVARDT Tools Center**
 
 > [!NOTE]
 > **Technical Execution Scope:** This web hub provides defensive architecture specifications and hardening configuration blueprints. Active vector database audits and host pipeline scans require environment credentials and network connectivity via the provided deterministic Python CLI tool (`rag_security_auditor.py`). Web pages running in browser sandboxes cannot connect directly to private vector clusters.
@@ -65,4 +64,4 @@ python3 rag_security_auditor.py -json
 * **Jurisdiction:** United Kingdom
 * **Standards Compliance:** OWASP Top 10 for LLM Applications (LLM01, LLM07), MITRE ATLAS Framework, and Zero Trust Architecture.
 
-Developed by the AI Security & Infrastructure Division of **[TAVARDT United Kingdom](https://ag.tavardt.com/uk/)**. All rights reserved.
+Developed by the AI Security & Infrastructure Division of **TAVARDT United Kingdom**. All rights reserved.
