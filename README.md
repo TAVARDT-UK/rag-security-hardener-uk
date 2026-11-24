@@ -11,11 +11,6 @@ Developed and maintained by the Artificial Intelligence Security Engineering Div
 
 ***
 
-## Official Portals
-
-* **Institutional Portal**: [Portal Institucional](https://ag.tavardt.com/uk/)
-* **Tools Center**: [Central de Ferramentas](https://tools.tavardt.com/uk/)
-* **Contact and Technical Support**: [Canal de Contato](https://ag.tavardt.com/uk/contact/)
 
 ***
 
